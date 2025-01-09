@@ -55,8 +55,6 @@ Signal Equalizer is a versatile tool designed for audio and signal processing. I
 ---
 
 - ### **Wiener Filter Mode**  
-   ![image](https://github.com/user-attachments/assets/194735b6-4a4e-4f2d-a99c-46a9815b54e6)
-
 - **After clicking on Adjust Band and eliminating the noise**
    ![image](https://github.com/user-attachments/assets/685132b5-29a3-478b-9fd0-efbef90e2e67)
 
