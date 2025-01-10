@@ -45,8 +45,6 @@ https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
 ---
 
 - ### **Hybrid Sounds Mode**  
-   ![image](https://github.com/user-attachments/assets/25e405fd-ac55-4a2b-9879-5136b9af14df)
-
 - **Only the bird sound is audible as the sliders for all other frequencies are at minimum, effectively muting all other sounds.** 
   ![image](https://github.com/user-attachments/assets/6b1dc2cf-82fd-4c4b-9a6c-86da3f0f8498)
 
