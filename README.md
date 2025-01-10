@@ -25,15 +25,18 @@ Signal Equalizer is a versatile tool designed for audio and signal processing. I
 ---
 
 ## Video Demo  
-[Demo Video Link](#)
+
+https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
+
 
 ---
 
 ## Application Interface  
 
 - ### **Uniform Range Mode**  
-   ![image](https://github.com/user-attachments/assets/507be5bd-7d38-4b6f-ab53-8b9322203836)
-
+- **hidden Spectrograms**
+  ![image](https://github.com/user-attachments/assets/e843b1ce-948b-46ad-8fcd-2b6c7a5efd25)
+  
 
 - **Slider 2 and 3 are tunrning off range of frequrencies and reflecting on the output spectrogram**
 - **The Audiogram Scale is displayed for visualization**
