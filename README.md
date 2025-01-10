@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
 ## Application Interface  
 
 - ### **Uniform Range Mode**  
-- **hidden Spectrograms**
+- **Hidden Spectrograms**
   ![image](https://github.com/user-attachments/assets/e843b1ce-948b-46ad-8fcd-2b6c7a5efd25)
   
 
