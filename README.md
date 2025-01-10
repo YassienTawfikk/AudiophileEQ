@@ -76,10 +76,10 @@ Signal Equalizer is a versatile tool designed for audio and signal processing. I
    git clone https://github.com/your-repository/signal-equalizer.git
    cd signal-equalizer
 ### **Team Members**
-
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)
+This project wouldn’t have been possible without the hard work and collaboration of my amazing team. Huge shout-out to
 - [Madonna Mosaad](https://github.com/madonna-mosaad)
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)
 
 ---
 
