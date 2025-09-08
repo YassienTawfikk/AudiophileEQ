@@ -19,7 +19,7 @@ class Wiener:
         """
         Input :
             WAV_FILE
-            T_NOISE : float, Time in seconds /!\ Only works if stationnary noise is at the beginning of x /!\
+            T_NOISE: float, Time in seconds /! Only works if stationnary noise is at the beginning of x /!\
 
         """
         # Constants are defined here
@@ -110,7 +110,7 @@ class Wiener:
 
     def wiener(self):
         """
-        Function that returns the estimated speech signal using overlapp - add method
+        Function that returns the estimated speech signal using overlap - add method
         by applying a Wiener Filter on each frame to the noised input signal.
 
             Output :
