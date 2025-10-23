@@ -11,7 +11,7 @@ signal. It offers multiple modes and intuitive visualization tools for different
 
 ## **Video Demo**
 
-https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
+https://github.com/user-attachments/assets/a13dae43-fa16-44d7-8f04-d47be1091a1d
 
 ---
 
