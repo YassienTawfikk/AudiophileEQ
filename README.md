@@ -1,4 +1,4 @@
-# **Signal Equalizer**
+# **AudiophileEQ**
 
 Signal Equalizer is a versatile tool for audio and signal processing, with applications in music, speech, and biomedical fields such as hearing aid analysis and abnormalities detection. This desktop application allows users to modify the magnitudes of specific frequency components using sliders and reconstruct the adjusted signal. It offers multiple modes and intuitive visualization tools for different use cases.
 
