@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
    
 ⸻
 
-Contributors
+## **Contributors**
 
 <div>
 <table align="center">
