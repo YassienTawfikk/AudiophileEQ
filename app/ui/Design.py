@@ -96,7 +96,7 @@ class Ui_MainWindow(object):
 
         self.title_icon = QtWidgets.QLabel(self.horizontalLayoutWidget_2)
         self.title_icon.setMaximumSize(QtCore.QSize(40, 40))
-        self.title_icon.setPixmap(QtGui.QPixmap("../../static/images/title_icon.png"))
+        self.title_icon.setPixmap(QtGui.QPixmap("static/images/title_icon.png"))
         self.title_icon.setScaledContents(True)
         self.title_layout.addWidget(self.title_icon)
 
